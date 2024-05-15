@@ -1,0 +1,18 @@
+.App{
+  background-color:white;
+  height: 100%;
+  width: 100%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding: 10px 0; /* Adjust padding as needed */
+}
+
+
